@@ -1,4 +1,4 @@
 # Coco CNN model from OpenPose
 
-download from
+Download from
 https://github.com/rapee9999/openpose/tree/master/models
