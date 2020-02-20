@@ -6,5 +6,5 @@ Naturally, people can intuatively understand and recognise human activities thro
 
 
 ## Outline
-- Presentation
+- Presentation for research summary
 - Code (GitMo)
